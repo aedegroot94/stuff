@@ -17,8 +17,6 @@
   },
   "dependencies": {
     "babel": "^6.5.2",
-    "babel-core": "^6.18.2",
-    "dropbox": "^2.4.0",
-    "superagent": "^2.3.0"
+    "babel-core": "^6.18.2"
   }
 }
